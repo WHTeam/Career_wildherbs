@@ -1,0 +1,22 @@
+{
+  "name": "MEAN STACK APP ",
+  "version": "1.0.0",
+  "description": "Career Wildherbs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Krishnanath Maly",
+  "license": "ISC"
+}
